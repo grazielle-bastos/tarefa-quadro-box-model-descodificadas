@@ -1,0 +1,19 @@
+.quadro {
+  width: 368px;
+  height: 460px;
+  border: 8px solid #580000;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
+  background-color: #FFF8DC;
+  background-image: url(grazielle-bastos.jpeg);
+  background-size: auto;
+  box-sizing: border-box;
+  display: flex; 
+  flex-direction: column;
+  justify-content: flex-end;
+  color: rgba(231, 216, 216, 0.514);
+  text-align: left;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 4px #230f0f;
+}
